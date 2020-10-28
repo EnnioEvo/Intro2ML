@@ -1,0 +1,3 @@
+**/.idea
+.vscode/
+/data/train_features_clean_all.csv
